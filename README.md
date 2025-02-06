@@ -49,11 +49,6 @@ Developed a web application for managing **student affairs** and **online course
 
 - **Technologies used**: HTML, CSS, Bootstrap, MySQL, PHP, JavaScript
 
-## 📬 Contact Me
 
-- 📧 Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn URL Here]
-- GitHub: [Your GitHub URL Here]
-- Twitter: [Your Twitter URL Here, if applicable]
 
 Feel free to reach out if you want to collaborate or discuss any of my projects!
