@@ -1,54 +1,54 @@
-# Hi there, I'm Amir 👋
+Hey, I'm Amir! 👋
 
-I am a passionate and skilled developer with experience in **web** and **mobile development**. I enjoy building efficient and user-friendly applications, and I have a strong foundation in various programming languages and frameworks. In my free time, I explore my interests in **music**, **robotics**, and **handcrafting**.
+I’m a developer with a passion for creating smooth, user-friendly web and mobile applications. I love writing clean, efficient code and diving into different technologies to solve interesting problems. When I’m not coding, you’ll probably find me jamming out to some music, experimenting with robotics, or working on some cool handcraft projects.
 
-## 🚀 About Me
+### 🚀 A little about me
 
-I specialize in creating high-quality, maintainable code for web and mobile applications. My focus is on delivering user-centered solutions with an emphasis on performance, scalability, and security. I’m constantly learning and experimenting with new technologies to stay at the cutting edge of software development.
+I focus on writing high-quality code that’s not just functional, but also scalable and secure. I’m always exploring new tools and languages to stay ahead of the curve in software development.
 
-- 🔭 Currently working on: Various freelance projects and personal web apps.
-- 🌱 I’m currently learning: [Any new technology or tool you're learning, e.g., "Flutter & Dart for mobile development"]
-- 💬 Ask me about: Web & mobile development, open-source projects, or robotics!
-- 🎶 Fun fact: When I’m not coding, I love playing music and experimenting with robotics.
+- 🔭 **Currently working on**: A bunch of freelance projects and some personal web apps.
+- 🌱 **Learning right now**: TypeScript
+- 💬 **Let’s chat about**: Web & mobile development, open-source projects, or robotics!
+- 🎶 **Fun fact**: When I’m not coding, I’m probably playing music or tinkering with robots.
 
-## 💻 Technical Skills
+### 💻 My technical skills
 
-### **Programming Languages**
+#### **Programming Languages**
 - Java, PHP, JavaScript, C, TypeScript
 
-### **Frameworks & Libraries**
+#### **Frameworks & Libraries**
 - Spring Boot, Angular, Laravel, Flutter, React
 
-### **Databases**
+#### **Databases**
 - PostgreSQL, MySQL, MongoDB
 
-### **Tools & Technologies**
+#### **Tools & Technologies**
 - Docker, Git (GitHub & GitLab), Jira, IntelliJ IDEA, Postman, Linux
 
-## 🌟 Projects
+### 🌟 Some of my projects
 
-Here are a few notable projects I've worked on:
+Here are a few projects I’ve worked on that I’m proud of:
 
-### **Orvo Pharmacy Management System** (Freelance)
-Developed a web application to manage pharmacy operations, including **sales tracking**, **freezer temperature monitoring**, and **expense management**.
+#### **Orvo Pharmacy Management System** (Freelance)
+A web app to manage pharmacy tasks like **sales tracking**, **freezer monitoring**, and **expense management**.
 
-- **Technologies used**: Laravel, Tailwind CSS, MySQL
+- **Tech stack**: Laravel, Tailwind CSS, MySQL
 
-### **Financial Management and Payroll System** (Freelance)
-Built a system to track **payments**, **salaries**, and handle multi-user functionality with features like **notes** and **reporting**.
+#### **Financial Management and Payroll System** (Freelance)
+Built a system to track **payments**, **salaries**, and manage multiple users with features like **notes** and **reporting**.
 
-- **Technologies used**: Bootstrap, JavaScript, HTML, CSS, PHP, SQL, Laravel
+- **Tech stack**: Bootstrap, JavaScript, HTML, CSS, PHP, SQL, Laravel
 
-### **Company Website - Al Majazer**
-Created an **e-commerce** and **inventory management** website to improve customer interaction and streamline **stock management**.
+#### **Al Majazer Company Website**
+Designed an **e-commerce** and **inventory management** website to enhance customer engagement and improve **stock management**.
 
-- **Technologies used**: Bootstrap, JavaScript, HTML, CSS, PHP, SQL
+- **Tech stack**: Bootstrap, JavaScript, HTML, CSS, PHP, SQL
 
-### **E-class Management System** (YouCode)
-Developed a web application for managing **student affairs** and **online courses** at YouCode, improving both student and course organization.
+#### **E-class Management System** (YouCode)
+Developed a web app to manage **student affairs** and **online courses** at YouCode, making it easier to organize everything.
 
-- **Technologies used**: HTML, CSS, Bootstrap, MySQL, PHP, JavaScript
+- **Tech stack**: HTML, CSS, Bootstrap, MySQL, PHP, JavaScript
 
+---
 
-
-Feel free to reach out if you want to collaborate or discuss any of my projects!
+Feel free to reach out if you want to chat or collaborate on something cool!
