@@ -1,4 +1,4 @@
-Hey, I'm Amir! 👋
+Hey, I'm Ethan Caldwell! 👋
 
 I’m a developer with a passion for creating smooth, user-friendly web and mobile applications. I love writing clean, efficient code and diving into different technologies to solve interesting problems. When I’m not coding, you’ll probably find me jamming out to some music, experimenting with robotics, or working on some cool handcraft projects.
 
