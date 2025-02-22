@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Imrane Chaibi
 
 ## 🚀 About Me
-I'm a passionate **Software Developer** with experience in **web and mobile development**, backend engineering, and DevOps. Currently, I'm studying at **1337 (42 Network)**, focusing on **networking and management** while expanding my expertise in **software engineering**.
+I'm a passionate **Software Developer** with experience in **web and mobile development**, backend engineering, and DevOps. Currently, I'm studying at **1337 (42 Network)**, focusing on **software engineering**.
 
 I enjoy building scalable applications, exploring new technologies, and solving complex problems.
 
@@ -75,6 +75,9 @@ I enjoy building scalable applications, exploring new technologies, and solving 
 - **Music** (Piano 🎹)
 - **Robotics** (Building & exploring new tech solutions 🤖)
 - **Handcraft** (DIY Jewelry & creative projects 🛠️)
+
+## GitHub Repositories
+🔒 Most of my repositories are private.
 
 ## 📫 Contact Me
 - **📧 Email:** imranchaibi1@gmail.com
