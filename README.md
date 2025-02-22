@@ -1,54 +1,85 @@
-Hey, I'm Ethan Caldwell! 👋
+# 👋 Hi, I'm Imrane Chaibi
 
-I’m a developer with a passion for creating smooth, user-friendly web and mobile applications. I love writing clean, efficient code and diving into different technologies to solve interesting problems. When I’m not coding, you’ll probably find me jamming out to some music, experimenting with robotics, or working on some cool handcraft projects.
+## 🚀 About Me
+I'm a passionate **Software Developer** with experience in **web and mobile development**, backend engineering, and DevOps. Currently, I'm studying at **1337 (42 Network)**, focusing on **networking and management** while expanding my expertise in **software engineering**.
 
-### 🚀 A little about me
+I enjoy building scalable applications, exploring new technologies, and solving complex problems.
 
-I focus on writing high-quality code that’s not just functional, but also scalable and secure. I’m always exploring new tools and languages to stay ahead of the curve in software development.
+## 🛠️ Technical Skills
+### **Programming Languages**
+- Java, PHP, JavaScript, C, Apex, TypeScript
 
-- 🔭 **Currently working on**: A bunch of freelance projects and some personal web apps.
-- 🌱 **Learning right now**: TypeScript
-- 💬 **Let’s chat about**: Web & mobile development, open-source projects, or robotics!
-- 🎶 **Fun fact**: When I’m not coding, I’m probably playing music or tinkering with robots.
+### **Frameworks & Libraries**
+- Spring Boot, Angular, Laravel, Flutter
 
-### 💻 My technical skills
-
-#### **Programming Languages**
-- Java, PHP, JavaScript, C, TypeScript
-
-#### **Frameworks & Libraries**
-- Spring Boot, Angular, Laravel, Flutter, React
-
-#### **Databases**
+### **Databases**
 - PostgreSQL, MySQL, MongoDB
 
-#### **Tools & Technologies**
-- Docker, Git (GitHub & GitLab), Jira, IntelliJ IDEA, Postman, Linux
+### **Tools & Platforms**
+- **Tools:** Docker, Git (GitHub & GitLab), Jira, IntelliJ IDEA, Postman, Linux
+- **Platforms:** Salesforce
 
-### 🌟 Some of my projects
+## 💼 Work Experience
+### **Salesforce Developer - Experience Morocco** *(Dec 2023 - Feb 2024)*
+- Assisted in developing and maintaining an internal project for managing travel, sales, and finances.
+- Contributed to the DevOps pipeline by creating efficient deployment workflows.
 
-Here are a few projects I’ve worked on that I’m proud of:
+### **Salesforce/Vlocity Developer Intern - Soft-Innovation** *(Jul - Dec 2023)*
+- Developed **OmniStudio components** (OmniScripts, DataRaptors) to enhance business processes.
+- Used **Apex, JavaScript, OmniStudio, and Vlocity CLI** for Salesforce and Vlocity metadata deployment.
 
-#### **Orvo Pharmacy Management System** (Freelance)
-A web app to manage pharmacy tasks like **sales tracking**, **freezer monitoring**, and **expense management**.
+### **Web Developer Intern - HBS Maroc** *(Jul - Aug 2022)*
+- Built an **e-commerce website** to enhance online presence and customer interaction.
+- Technologies: **React, Node.js, TypeScript, Express.js, JavaScript, Bootstrap**
 
-- **Tech stack**: Laravel, Tailwind CSS, MySQL
+### **Web Developer Intern - Al Majazer** *(Jul - Oct 2021)*
+- Created a website with an integrated ordering system for improved customer accessibility.
+- Technologies: **HTML, CSS, JavaScript, PHP, SQL, Bootstrap**
 
-#### **Financial Management and Payroll System** (Freelance)
-Built a system to track **payments**, **salaries**, and manage multiple users with features like **notes** and **reporting**.
+### **Web Developer Intern - Al Failakaoui** *(Mar - Feb 2021)*
+- Developed a website for online presence and inventory management.
+- Technologies: **HTML, CSS, JavaScript, PHP, SQL, Bootstrap**
 
-- **Tech stack**: Bootstrap, JavaScript, HTML, CSS, PHP, SQL, Laravel
+## 📚 Education
+- **1337 (42 Network), Benguerir** *(Oct 2024 - Present)*  
+  *Project-based learning in software development, networking, and management.*
+- **Web & Mobile Development, YouCode, Youssoufia** *(Oct 2021 - Sep 2023)*  
+  *Immersive training in software engineering and database management.*
+- **Web & Mobile Development, Greenchip 2.0, Oujda** *(Sep 2020 - Jun 2021)*  
+  *Hands-on training in web development and digital referencing.*
+- **Baccalaureate in Computer & Network Maintenance, Lycée Hassan II, Midelt** *(Jul 2017)*  
+  *Specialized in hardware, software troubleshooting, and cybersecurity.*
 
-#### **Al Majazer Company Website**
-Designed an **e-commerce** and **inventory management** website to enhance customer engagement and improve **stock management**.
+## 🔥 Projects
+### **Orvo Pharmacy Management System - Freelance**
+- Developed a **web app** for pharmacy operations including **sales tracking, expense management, and supplier contacts**.
+- Technologies: **Laravel, Tailwind CSS, MySQL**
 
-- **Tech stack**: Bootstrap, JavaScript, HTML, CSS, PHP, SQL
+### **Financial Management & Payroll - Freelance**
+- Built a **multi-user system** for payments and salary tracking with reporting features.
+- Technologies: **Spring Boot, Angular, PHP Laravel, JavaScript, SQL**
 
-#### **E-class Management System** (YouCode)
-Developed a web app to manage **student affairs** and **online courses** at YouCode, making it easier to organize everything.
+### **E-Class - YouCode**
+- Created a **student and course management** system for YouCode.
+- Technologies: **PHP, JavaScript, MySQL, Bootstrap**
 
-- **Tech stack**: HTML, CSS, Bootstrap, MySQL, PHP, JavaScript
+## 🎓 Certifications
+- **CS50: Introduction to Computer Science** - *(Dec 2021)*
+
+## 🌍 Languages
+- **Arabic** (Native)  
+- **English** (Fluent)  
+- **French** (Fluent)  
+
+## 🎵 Hobbies & Interests
+- **Music** (Piano 🎹)
+- **Robotics** (Building & exploring new tech solutions 🤖)
+- **Handcraft** (DIY Jewelry & creative projects 🛠️)
+
+## 📫 Contact Me
+- **📧 Email:** imranchaibi1@gmail.com
+- **📱 Phone:** +212 632823950
+- **💼 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/imrane-chaibi-118a55204/)
 
 ---
-
-Feel free to reach out if you want to chat or collaborate on something cool!
+💡 *"Passionate about coding, problem-solving, and continuous learning."*
